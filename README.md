@@ -18,8 +18,12 @@ Wireframing is a crucial step in the design process that involves creating simpl
 - **Low-Fidelity Wireframes**: Basic sketches or block diagrams to represent layout ideas. Used in early design discussions.
 - **High-Fidelity Wireframes**: Detailed designs with real content, close to the final look. Used for design handoff and testing.
 
-### Example Type: Low-Fidelity
-The image used in this repo shows a simple wireframe with placeholders and minimal detail, making it a low-fidelity wireframe.
+### Example Type: High-Fidelity
+
+![Screenshot 2025-05-09 182234](https://github.com/user-attachments/assets/36cf2536-7492-42b1-b6fe-2fa5e287eb15)
+
+
+The image used in this repository is High-Fidelity since it includes detailed designs with real content that is close to the original content.
 
 
 ## Wireframing Tools
